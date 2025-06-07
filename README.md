@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, me chamo Vinícius Wallace</h1>
 <h3 align="center">Um estudante de Ciência de Dados em transição de carreira</h3>
 
-- 🔭 Atualmente estou trabalhando nesse projeto [Predição de Insuficiência Cardiáca](https://colab.research.google.com/drive/1_geLAWI-9DWHlEDTzlCM8c4q6I4Uq0d4?usp=sharing)
+- 🔭 Atualmente estou trabalhando nesse projeto [Predição de Insuficiência Cardiáca](https://github.com/viniwallaz/Heart_failure)
 
 - 🌱 Estou aprendendo através de **Curso de Pós Graduação em Data Science, cursos pela Udemy, tutoriais no Youtube e eventos de Inteligência Artificial.**
 
