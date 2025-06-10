@@ -7,7 +7,7 @@
 
 - 🤝 Tenho muito interesse em aprender projetos como esse: [MONAI+ - open-source framework for deep learning in healthcare imaging](https://github.com/Project-MONAI/MONAI)
 
-- 👨‍💻 Todos os meus projetos estão aqui: [https://github.com/viniwallaz](https://github.com/viniwallaz)
+- 👨‍💻 Todos os meus projetos estão aqui: [Repositórios](https://github.com/viniwallaz?tab=repositories)
 
 - 📝 Meus artigos poderão ser encontrados aqui: [https://medium.com/@vinicius_wallace](https://medium.com/@vinicius_wallace)
 
