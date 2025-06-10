@@ -1,23 +1,23 @@
 <h1 align="center">Olá 👋, me chamo Vinícius Wallace</h1>
 <h3 align="center">Um estudante de Ciência de Dados em transição de carreira</h3>
 
-- 🔭 Atualmente estou trabalhando nesse projeto [Predição de Insuficiência Cardiáca](https://github.com/viniwallaz/Heart_failure)
+- 🔭 Atualmente estou trabalhando nesse projeto: [Predição de Insuficiência Cardiáca](https://github.com/viniwallaz/Heart_failure)
 
-- 🌱 Estou aprendendo através de **Curso de Pós Graduação em Data Science, cursos pela Udemy, tutoriais no Youtube e eventos de Inteligência Artificial.**
+- 🌱 Estou aprendendo através de: **Curso de Pós Graduação em Data Science, cursos pela Udemy, tutoriais no Youtube e eventos de Inteligência Artificial.**
 
-- 🤝 Tenho muito interesse em aprender projetos com sobre [MONAI+ - open-source framework for deep learning in healthcare imaging](https://github.com/Project-MONAI/MONAI)
+- 🤝 Tenho muito interesse em aprender projetos como esse: [MONAI+ - open-source framework for deep learning in healthcare imaging](https://github.com/Project-MONAI/MONAI)
 
-- 👨‍💻 Todos os meus projetos estão aqui [https://github.com/viniwallaz](https://github.com/viniwallaz)
+- 👨‍💻 Todos os meus projetos estão aqui: [https://github.com/viniwallaz](https://github.com/viniwallaz)
 
-- 📝 Meus artigos poderão ser encontrados aqui [https://medium.com/@vinicius_wallace](https://medium.com/@vinicius_wallace)
+- 📝 Meus artigos poderão ser encontrados aqui: [https://medium.com/@vinicius_wallace](https://medium.com/@vinicius_wallace)
 
-- 💬 Pergunte me sobre **Python, SQL, Excel, Power BI, Tableau, Pandas & Equipamentos Médicos.**
+- 💬 Pergunte me sobre **Python, SQL, Excel, Power BI, Tableau, Pandas & Tecnologia em Saúde.**
 
-- 📫 Como entrar em contato comigo **vinicius_wallace@yahoo.com.br**
+- 📫 Como entrar em contato comigo: **vinicius_wallace@yahoo.com.br**
 
-- 📄 Saiba da minha trajetória [https://www.linkedin.com/in/vinicius-wallace/](https://www.linkedin.com/in/vinicius-wallace/)
+- 📄 Saiba da minha trajetória: [https://www.linkedin.com/in/vinicius-wallace/](https://www.linkedin.com/in/vinicius-wallace/)
 
-- ⚡ Coisa engraçada sobre mim **Sou uma pessoa extremamento curiosa por inovação**
+- ⚡ Coisa engraçada sobre mim: **Sou uma pessoa extremamento curiosa por inovação**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
