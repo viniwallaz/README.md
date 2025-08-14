@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, me chamo Vinícius Wallace</h1>
 <h3 align="center">Um estudante de Ciência de Dados em transição de carreira</h3>
 
-- 🔭 Atualmente estou trabalhando nesse projeto: [Análise de Série Temporal do Bitcoin](https://github.com/viniwallaz/Bitcoin_analysis)
+- 🔭 Atualmente estou trabalhando nesse projeto: [Clusterização de clientes](https://github.com/viniwallaz/Clustering_analysis)
 
 - 🌱 Estou aprendendo através de: **Curso de Pós Graduação em Data Science, cursos pela Udemy, tutoriais no Youtube e eventos de Inteligência Artificial.**
 
